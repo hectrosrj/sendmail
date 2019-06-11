@@ -1,0 +1,6 @@
+echo "# sendmail" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git remoto agregar origen https://github.com/hectrosrj/sendmail.git
+git push -u master de origen
